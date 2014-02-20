@@ -1,4 +1,4 @@
 Manuals
 =======
 
-A place to put all my manuals i have collected over the years 
+A place to put all my manuals I have collected over the years 
